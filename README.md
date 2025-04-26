@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there, I'm Maaz Hussain 👋
 
-<!--
-**maaz-h97/maaz-h97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Analytics Graduate | 📊 Data Analyst & Storyteller | 🚀 Transforming Insights into Business Growth
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔥 About Me
+
+- Passionate about turning data into clear, actionable insights.
+- Skilled in Data Analysis, Visualization, Business Intelligence, and Predictive Modeling.
+- Building data-driven solutions using **Python, SQL, Tableau, and Power BI**.
+- Committed to continuous learning, innovation, and impactful storytelling with data.
+
+---
+
+## 🚀 Portfolio Highlights
+
+- 📈 **Sales Forecasting Dashboard** | Time Series Analysis and KPI Visualization
+- 🏦 **Banking Customer Churn Analysis** | Predictive Modeling and Business Dashboard
+- 🎯 **Customer Segmentation Project** | K-Means Clustering and Strategic Insights
+- 🧪 **A/B Testing Experiment** | Hypothesis Testing and Statistical Validation
+- 🌎 **Geospatial Analytics Project** | Regional Market Insights Visualization
+- 🚘 **Tesla Recall Analysis** | Data Storytelling and Industry Risk Analysis
+- 🏦 **Financial Risk Analysis & Credit Scoring Model** | Risk Prediction and Dashboard
+
+
+> View Full Portfolio: [maazhussain.ca](https://maazhussain.ca)
+
+---
+
+## 💻 Skills
+
+- **Languages & Tools:** Python (Pandas, NumPy, Scikit-Learn), SQL, Tableau, Power BI, Excel
+- **Specialties:** Data Analytics | Dashboard Development | Data Storytelling | Business Insights | Predictive Modeling
+
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
+- [Portfolio Website](https://maazhussain.ca)
+
+---
+
 -->
