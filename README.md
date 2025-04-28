@@ -4,7 +4,7 @@
 
 ---
 
-## 🔥 About Me
+##  About Me
 
 - Passionate about turning data into clear, actionable insights.
 - Skilled in Data Analysis, Visualization, Business Intelligence, and Predictive Modeling.
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Portfolio Highlights
+##  Portfolio Highlights
 
 - 📈 **Sales Forecasting Dashboard** | Time Series Analysis and KPI Visualization
 - 🏦 **Banking Customer Churn Analysis** | Predictive Modeling and Business Dashboard
@@ -34,7 +34,7 @@
 - **Specialties:** Data Analytics | Dashboard Development | Data Storytelling | Business Insights | Predictive Modeling
 
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)  
 - [Portfolio Website](https://maazhussain.ca)
